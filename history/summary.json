@@ -58,19 +58,19 @@
     "url": "https://box.tricket.io",
     "icon": "https://icons.duckduckgo.com/ip3/box.tricket.io.ico",
     "slug": "boxoffice",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 512,
-    "timeDay": 512,
-    "timeWeek": 512,
-    "timeMonth": 512,
-    "timeYear": 512,
+    "status": "up",
+    "uptime": "46.37%",
+    "uptimeDay": "46.37%",
+    "uptimeWeek": "46.37%",
+    "uptimeMonth": "46.37%",
+    "uptimeYear": "46.37%",
+    "time": 507,
+    "timeDay": 507,
+    "timeWeek": 507,
+    "timeMonth": 507,
+    "timeYear": 507,
     "dailyMinutesDown": {
-      "2023-07-05": 0
+      "2023-07-05": 42
     }
   }
 ]
