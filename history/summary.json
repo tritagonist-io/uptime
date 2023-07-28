@@ -24,18 +24,20 @@
     "url": "https://cinecenter.tricket.io/",
     "icon": "https://icons.duckduckgo.com/ip3/cinecenter.tricket.io.ico",
     "slug": "cinecenter-visitors",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 468,
-    "timeDay": 355,
-    "timeWeek": 430,
+    "timeDay": 408,
+    "timeWeek": 434,
     "timeMonth": 468,
     "timeYear": 468,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-28": 0
+    }
   },
   {
     "name": "Admin",
