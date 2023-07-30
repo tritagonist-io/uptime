@@ -6,7 +6,7 @@ sites:
   - name: Demo Visitors
     url: https://demo.tricket.io/
   - name: Cinecenter Visitors
-    url: https://cinecenter.tricket.io/
+    url: https://kassa.cinecenter.nl/
   - name: Admin
     url: https://admin.tricket.io
   - name: Boxoffice
