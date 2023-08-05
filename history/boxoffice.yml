@@ -1,7 +1,7 @@
 url: https://box.tricket.io
-status: down
-code: 503
-responseTime: 507
-lastUpdated: 2023-08-05T10:00:32.456Z
+status: up
+code: 200
+responseTime: 473
+lastUpdated: 2023-08-05T10:35:29.771Z
 startTime: Wed Jul 05 2023 18:23:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
