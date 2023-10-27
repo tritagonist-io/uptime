@@ -1,7 +1,7 @@
 url: https://admin.tricket.io
-status: up
-code: 200
-responseTime: 454
-lastUpdated: 2023-10-26T23:15:40.331Z
+status: down
+code: 504
+responseTime: 10470
+lastUpdated: 2023-10-27T18:37:10.033Z
 startTime: 2023-07-05T18:23:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
