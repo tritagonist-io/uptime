@@ -5,23 +5,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.tricket.io.ico",
     "slug": "demo-visitors",
     "status": "up",
-    "uptime": "94.62%",
+    "uptime": "94.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 673,
-    "timeDay": 475,
-    "timeWeek": 569,
-    "timeMonth": 556,
+    "time": 674,
+    "timeDay": 508,
+    "timeWeek": 574,
+    "timeMonth": 550,
     "timeYear": 569,
     "dailyMinutesDown": {
       "2024-09-01": 27,
       "2024-08-17": 26,
       "2024-08-16": 388,
       "2024-08-15": 247,
-      "2024-01-14": 137,
-      "2024-01-06": 32
+      "2024-01-14": 137
     }
   },
   {
@@ -36,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 619,
-    "timeDay": 454,
-    "timeWeek": 570,
-    "timeMonth": 546,
+    "timeDay": 515,
+    "timeWeek": 582,
+    "timeMonth": 538,
     "timeYear": 578,
     "dailyMinutesDown": {}
   },
@@ -53,14 +52,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 559,
-    "timeDay": 372,
-    "timeWeek": 535,
-    "timeMonth": 517,
+    "time": 558,
+    "timeDay": 500,
+    "timeWeek": 537,
+    "timeMonth": 511,
     "timeYear": 527,
-    "dailyMinutesDown": {
-      "2024-01-06": 32
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Boxoffice",
@@ -74,12 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 534,
-    "timeDay": 360,
-    "timeWeek": 502,
-    "timeMonth": 510,
+    "timeDay": 501,
+    "timeWeek": 511,
+    "timeMonth": 504,
     "timeYear": 528,
-    "dailyMinutesDown": {
-      "2024-01-06": 32
-    }
+    "dailyMinutesDown": {}
   }
 ]
