@@ -28,19 +28,19 @@
     "url": "https://kassa.cinecenter.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/kassa.cinecenter.nl.ico",
     "slug": "cinecenter-visitors",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 620,
-    "timeDay": 723,
-    "timeWeek": 609,
-    "timeMonth": 547,
-    "timeYear": 576,
+    "timeDay": 595,
+    "timeWeek": 591,
+    "timeMonth": 544,
+    "timeYear": 575,
     "dailyMinutesDown": {
-      "2025-01-09": 0
+      "2025-01-09": 6
     }
   },
   {
