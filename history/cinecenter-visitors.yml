@@ -1,7 +1,7 @@
 url: https://kassa.cinecenter.nl/
-status: down
-code: 500
-responseTime: 560
-lastUpdated: 2025-08-19T17:15:51.617Z
+status: up
+code: 200
+responseTime: 574
+lastUpdated: 2025-08-19T17:27:17.163Z
 startTime: 2023-07-05T18:23:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
