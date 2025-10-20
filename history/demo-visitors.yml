@@ -1,7 +1,7 @@
 url: https://demo.tricket.io/
-status: down
-code: 502
+status: up
+code: 200
 responseTime: 465
-lastUpdated: 2025-10-20T19:41:03.292Z
+lastUpdated: 2025-10-20T19:47:53.947Z
 startTime: 2023-07-05T18:23:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
