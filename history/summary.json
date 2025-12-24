@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.tricket.io.ico",
     "slug": "demo-visitors",
     "status": "up",
-    "uptime": "96.70%",
+    "uptime": "96.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -26,9 +26,9 @@
     "url": "https://kassa.cinecenter.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/kassa.cinecenter.nl.ico",
     "slug": "cinecenter-visitors",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,6 +38,7 @@
     "timeMonth": 711,
     "timeYear": 626,
     "dailyMinutesDown": {
+      "2025-12-24": 0,
       "2025-08-19": 11
     }
   },
