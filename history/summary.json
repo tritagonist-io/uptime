@@ -4,18 +4,19 @@
     "url": "https://demo.tricket.io/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.tricket.io.ico",
     "slug": "demo-visitors",
-    "status": "up",
+    "status": "down",
     "uptime": "97.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 606,
-    "timeDay": 567,
-    "timeWeek": 551,
-    "timeMonth": 553,
+    "timeDay": 518,
+    "timeWeek": 541,
+    "timeMonth": 550,
     "timeYear": 622,
     "dailyMinutesDown": {
+      "2026-04-06": 0,
       "2025-11-18": 16,
       "2025-08-07": 27
     }
