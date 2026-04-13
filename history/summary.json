@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "97.06%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.50%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 605,
     "timeDay": 554,
-    "timeWeek": 559,
+    "timeWeek": 585,
     "timeMonth": 552,
     "timeYear": 622,
     "dailyMinutesDown": {
@@ -27,18 +27,19 @@
     "url": "https://kassa.cinecenter.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/kassa.cinecenter.nl.ico",
     "slug": "cinecenter-visitors",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 627,
+    "time": 628,
     "timeDay": 712,
     "timeWeek": 646,
     "timeMonth": 621,
     "timeYear": 638,
     "dailyMinutesDown": {
+      "2026-04-13": 3,
       "2025-08-19": 11
     }
   },
@@ -47,10 +48,10 @@
     "url": "https://admin.tricket.io",
     "icon": "https://icons.duckduckgo.com/ip3/admin.tricket.io.ico",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 544,
@@ -58,16 +59,18 @@
     "timeWeek": 547,
     "timeMonth": 521,
     "timeYear": 546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-13": 2
+    }
   },
   {
     "name": "Boxoffice",
     "url": "https://box.tricket.io",
     "icon": "https://icons.duckduckgo.com/ip3/box.tricket.io.ico",
     "slug": "boxoffice",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,6 +79,8 @@
     "timeWeek": 508,
     "timeMonth": 516,
     "timeYear": 546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-13": 0
+    }
   }
 ]
