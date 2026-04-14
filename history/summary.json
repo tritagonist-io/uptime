@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "97.06%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 605,
     "timeDay": 613,
-    "timeWeek": 583,
+    "timeWeek": 610,
     "timeMonth": 555,
     "timeYear": 622,
     "dailyMinutesDown": {
@@ -27,9 +27,9 @@
     "url": "https://kassa.cinecenter.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/kassa.cinecenter.nl.ico",
     "slug": "cinecenter-visitors",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "98.56%",
+    "uptimeDay": "98.55%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -39,6 +39,7 @@
     "timeMonth": 629,
     "timeYear": 639,
     "dailyMinutesDown": {
+      "2026-04-14": 0,
       "2026-04-13": 21,
       "2025-08-19": 11
     }
