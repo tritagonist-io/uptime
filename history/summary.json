@@ -4,11 +4,11 @@
     "url": "https://demo.tricket.io/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.tricket.io.ico",
     "slug": "demo-visitors",
-    "status": "up",
+    "status": "down",
     "uptime": "97.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 617,
     "timeDay": 365,
@@ -21,7 +21,8 @@
       "2026-04-06": 22,
       "2026-04-07": 29,
       "2026-04-22": 38,
-      "2026-05-03": 31
+      "2026-05-03": 31,
+      "2026-06-03": 15
     }
   },
   {
@@ -29,11 +30,11 @@
     "url": "https://kassa.cinecenter.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/kassa.cinecenter.nl.ico",
     "slug": "cinecenter-visitors",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 638,
     "timeDay": 641,
@@ -43,7 +44,8 @@
     "dailyMinutesDown": {
       "2025-08-19": 11,
       "2026-04-13": 21,
-      "2026-04-14": 27
+      "2026-04-14": 27,
+      "2026-06-03": 10
     }
   },
   {
@@ -51,11 +53,11 @@
     "url": "https://admin.tricket.io",
     "icon": "https://icons.duckduckgo.com/ip3/admin.tricket.io.ico",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 541,
     "timeDay": 537,
@@ -63,7 +65,8 @@
     "timeMonth": 489,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2026-04-13": 19
+      "2026-04-13": 19,
+      "2026-06-03": 5
     }
   },
   {
@@ -71,19 +74,20 @@
     "url": "https://box.tricket.io",
     "icon": "https://icons.duckduckgo.com/ip3/box.tricket.io.ico",
     "slug": "boxoffice",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 537,
+    "time": 538,
     "timeDay": 326,
     "timeWeek": 480,
     "timeMonth": 474,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2026-04-13": 18
+      "2026-04-13": 18,
+      "2026-06-03": 0
     }
   }
 ]
